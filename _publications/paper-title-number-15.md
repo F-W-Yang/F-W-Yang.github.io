@@ -1,7 +1,7 @@
 ---
 title: "Gravitational waves from resonant transitions of tidally perturbed gravitational atoms"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publicationpaper-title-number-15
 excerpt: 'This paper is about the monochromatic GW signal produced by a tidally perturbed GA.'
 date: 2025-03-23
