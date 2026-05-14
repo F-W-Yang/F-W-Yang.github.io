@@ -1,7 +1,7 @@
 ---
 title: "Stability of superconducting strings"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/paper-title-number-13
 excerpt: 'This paper is about solving the stability problem of fermionic superconducting strings.'
 date: 2025-03-11
