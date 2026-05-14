@@ -1,7 +1,7 @@
 ---
 title: "Indirect detection of hot dark matter"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/paper-title-number-14
 excerpt: 'Indirect detection of hot dark matter'
 date: 2025-05-15
