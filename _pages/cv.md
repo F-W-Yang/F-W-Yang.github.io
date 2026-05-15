@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of Utah, 2023
-* B.S. in Nanjing University, 2017
+* Ph.D in Physics, University of Utah, 2023
+  * Supervisor: Prof. Yue Zhao
+  * Dissertation: Novel Probes of New Physics Beyond Particle Standard Model
+* B.S. in Astronomy, Nanjing University, 2017
 
 Employment
 ======
