@@ -27,7 +27,7 @@ author:
   name             : "Fengwei Yang"
   pronouns         : # example: "she/her"  
   bio              : "B.Sc. in Astronomy. Ph.D. in Physics."
-  location         : "Earth"
+  #location         : "Earth"
   employer         : "University of Notre Dame"
   uri              : # URL
   email            : "fyang7@nd.edu" 
