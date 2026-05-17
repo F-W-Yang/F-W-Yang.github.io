@@ -23,20 +23,20 @@ repository               : "F-W-Yang/F-W-Yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image1.png"
+  avatar           : "image2.png"
   name             : "Fengwei Yang"
   pronouns         : # example: "she/her"  
   bio              : "B.Sc. in Astronomy. Ph.D. in Physics."
   #location         : "Earth"
   employer         : "University of Notre Dame"
   uri              : # URL
-  email            : "fyang7@nd.edu" 
+  email            : "fengwei.yang@utah.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=VN9Y6noAAAAJ&hl=en"
   inspire-hep      : "https://inspirehep.net/authors/1724305?ui-citation-summary=true" # URL
+  googlescholar    : "https://scholar.google.com/citations?user=VN9Y6noAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9873-6259"
   semantic         : # URL
