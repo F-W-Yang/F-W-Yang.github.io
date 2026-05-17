@@ -23,7 +23,7 @@ repository               : "F-W-Yang/F-W-Yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image1.png"
   name             : "Fengwei Yang"
   pronouns         : # example: "she/her"  
   bio              : "B.Sc. in Astronomy. Ph.D. in Physics."
