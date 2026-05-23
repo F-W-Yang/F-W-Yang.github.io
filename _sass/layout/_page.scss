@@ -399,3 +399,8 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* Hide the entire bottom footer panel */
+.page__footer {
+  display: none !important;
+}
