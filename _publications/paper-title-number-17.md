@@ -1,7 +1,7 @@
 ---
 title: "Direct multi-model dark-matter search with gravitational-wave interferometers using data from the first part of the fourth LIGO-Virgo-KAGRA observing run"
 collection: publications
-category: manuscripts
+category: arxivs
 permalink: /publication/paper-title-number-17
 excerpt: 'This paper is about using the fourth observation run of LVK data to search for ultralight DM.'
 date: 2025-10-30
