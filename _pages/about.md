@@ -23,7 +23,7 @@ This is Dr. Fengwei Yang's research website (To be updated...)
   </div>
 </div>
 
-We propose a dual NMR setup to produce and detect axions via axial current interaction. The advantages of this setup v.s. ambient axion DM experiment proposals are: 1. It can search for non-relic axions without relying on local axion density = local DM density; 2. It is a broadband search up to a maximum axion mass $m_a\sim R^{-1}$ beyond the Larmor frequency of the NMR device; 3. The sourced axion field is coherent with a know frequency = Larmor frequency; 4. The sensitivity of a continuous experiment for $T_{\rm obs}$ is equivalent to that of $N$ multiple experiments with a time $T_{\rm obs}/N$.
+We propose a dual NMR setup to produce and detect axions via axial current interaction. The advantages of this setup v.s. ambient axion DM experiment proposals are: 1. It can search for non-relic axions without relying on local axion density = local DM density; 2. It is a broadband search up to a maximum axion mass $$m_a\sim R^{-1}$$ beyond the Larmor frequency of the NMR device; 3. The sourced axion field is coherent with a know frequency = Larmor frequency; 4. The sensitivity of a continuous experiment for $$T_{\rm obs}$$ is equivalent to that of $$N$$ multiple experiments with a time $$T_{\rm obs}/N$$.
    
 
 
