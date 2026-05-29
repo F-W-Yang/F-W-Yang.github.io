@@ -1,7 +1,7 @@
 ---
 title: "Axion Production and Detection Using a Dual NMR-type Experiment"
 collection: publications
-category: manuscripts
+category: arxivs
 permalink: /publication/paper-title-number-16
 excerpt: 'This paper is about an experimental proposal for producing and detecting axions using NMR.'
 date: 2025-10-21
