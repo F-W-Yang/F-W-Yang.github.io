@@ -18,7 +18,11 @@ Education
 
 Employment
 ======
-* 2025-current: Joint postdoctoral research associate 
+* 2026-current: Postdoctoral research associate
+  * Johannes Gutenberg University of Mainz
+  * Supervisor: Prof. Joachim Kopp
+     
+* 2025-2026: Joint postdoctoral research associate 
   * University of Notre Dame
   * Supervisor: Prof. Yuhsin Tsai
 
